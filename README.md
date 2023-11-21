@@ -1,4 +1,48 @@
+![[Senza titolo.png]] Architettura x86
 
+- 4004
+- 8008
+- 8086
+- 80186
+- 80283
+- i386
+- 486
+- Pentium
+
+### [[ALU]]
+
+Unità aritmetica e logica
+
+### Salto condizionato
+
+- Si esegue il salto solo se è vero
+
+### Clock
+
+- Esegue un'operazione
+    - VA = P / W
+    - RI^2
+
+DUE TIPI DI DROGA
+
+- NEGATIVO
+- POSITIVO
+
+## BIOS
+
+Basic Input-Output System
+
+## NVRAM
+
+RAM non volatile
+
+## End device soltanto una connessione
+
+## Rete a pacchetti
+
+Sullo stesso canale fisico riescono ad esistere competitor della rete IP
+
+X.25
 - Ritrasmessi tutti i pacchetti
 - Non tutte le reti potrebbero avere un ordine di pacchetti
 
